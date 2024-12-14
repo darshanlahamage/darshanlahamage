@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshan Lahamage</h1>
-<h3 align="center">Cloud and DevOps Engineer by day, tech tinkerer by night. Having a strong background in full-stack web and mobile app development.</h3>
+<h3 align="center">Cloud and DevOps Engineer by day, tech tinkerer by night. <br>Having a strong background in full-stack web and mobile app development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanlahamage&label=Profile%20views&color=0e75b6&style=flat" alt="darshanlahamage" /> </p>
 
