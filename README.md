@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshanlahamage" alt="darshanlahamage" /></a> </p>
 
-- 🔭 I’m currently working at **Quantiphi Analytics Solution**
+- 🔭 I’m currently working at **Quantiphi Analytics Solution as Cloud & Devops Engineer**
 
 - 🌱 I’m currently learning **Advanced Kubernetes practices and cloud-based Generative AI development**
 
